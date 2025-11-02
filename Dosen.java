@@ -18,7 +18,7 @@ public class Dosen {
         this.mahasiswaBimbingan.add(mhs);
         
         // Task 1.3: Pastikan relasi dua arah
-        // Memanggil setter di class Mahasiswa agar data konsisten
+        // Memanggil setter di class Mahasiswa agar data konsistenn
         mhs.setDosenPembimbing(this); 
     }
 
