@@ -19,7 +19,7 @@ public class Dosen {
         
         // Task 1.3: Pastikan relasi dua arah
         // Memanggil setter di class Mahasiswa agar data konsisten
-        mhs.setDosenPembimbing(this); // <-- Ini akan valid SETELAH Mahasiswa.java diperbarui
+        mhs.setDosenPembimbing(this); 
     }
 
     public String getNama() {
